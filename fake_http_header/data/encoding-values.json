@@ -1,0 +1,10 @@
+{
+    "Accept-Encoding": [
+        "gzip",
+        "compres",
+        "deflat",
+        "b",
+        "identit",
+        "*"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "firefox": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "chrome": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+    "safari": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "edge": "text/html, application/xhtml+xml, image/jxr, */*",
+    "opera": "text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1"
+}

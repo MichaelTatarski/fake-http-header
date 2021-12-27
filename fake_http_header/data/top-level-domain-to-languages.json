@@ -1,0 +1,1213 @@
+{
+    "tw": [
+        "zh-TW",
+        "zh",
+        "nan",
+        "hak"
+    ],
+    "af": [
+        "fa-AF",
+        "ps",
+        "uz-AF",
+        "tk"
+    ],
+    "al": [
+        "sq",
+        "el"
+    ],
+    "dz": [
+        "ar-DZ"
+    ],
+    "as": [
+        "en-AS",
+        "sm",
+        "to"
+    ],
+    "ad": [
+        "ca"
+    ],
+    "ao": [
+        "pt-AO"
+    ],
+    "ai": [
+        "en-AI"
+    ],
+    "ag": [
+        "en-AG"
+    ],
+    "ar": [
+        "es-AR",
+        "en",
+        "it",
+        "de",
+        "fr",
+        "gn"
+    ],
+    "am": [
+        "hy"
+    ],
+    "aw": [
+        "nl-AW",
+        "pap",
+        "es",
+        "en"
+    ],
+    "au": [
+        "en-AU"
+    ],
+    "at": [
+        "de-AT",
+        "hr",
+        "hu",
+        "sl"
+    ],
+    "az": [
+        "az",
+        "ru",
+        "hy"
+    ],
+    "bs": [
+        "en-BS"
+    ],
+    "bh": [
+        "ar-BH",
+        "en",
+        "fa",
+        "ur"
+    ],
+    "bd": [
+        "bn-BD",
+        "en"
+    ],
+    "bb": [
+        "en-BB"
+    ],
+    "by": [
+        "be",
+        "ru"
+    ],
+    "be": [
+        "nl-BE",
+        "fr-BE",
+        "de-BE"
+    ],
+    "bz": [
+        "en-BZ",
+        "es"
+    ],
+    "bj": [
+        "fr-BJ"
+    ],
+    "bm": [
+        "en-BM",
+        "pt"
+    ],
+    "bt": [
+        "dz"
+    ],
+    "bo": [
+        "es-BO",
+        "qu",
+        "ay"
+    ],
+    "bq": [
+        "nl",
+        "pap",
+        "en"
+    ],
+    "ba": [
+        "bs",
+        "hr-BA",
+        "sr-BA"
+    ],
+    "bw": [
+        "en-BW",
+        "tn-BW"
+    ],
+    "br": [
+        "pt-BR",
+        "es",
+        "en",
+        "fr"
+    ],
+    "io": [
+        "en-IO"
+    ],
+    "vg": [
+        "en-VG"
+    ],
+    "bn": [
+        "ms-BN",
+        "en-BN"
+    ],
+    "bg": [
+        "bg",
+        "tr-BG",
+        "rom"
+    ],
+    "bf": [
+        "fr-BF",
+        "mos"
+    ],
+    "bi": [
+        "fr-BI",
+        "rn"
+    ],
+    "cv": [
+        "pt-CV"
+    ],
+    "kh": [
+        "km",
+        "fr",
+        "en"
+    ],
+    "cm": [
+        "en-CM",
+        "fr-CM"
+    ],
+    "ca": [
+        "en-CA",
+        "fr-CA",
+        "iu"
+    ],
+    "ky": [
+        "en-KY"
+    ],
+    "cf": [
+        "fr-CF",
+        "sg",
+        "ln",
+        "kg"
+    ],
+    "td": [
+        "fr-TD",
+        "ar-TD",
+        "sre"
+    ],
+    "cl": [
+        "es-CL"
+    ],
+    "cn": [
+        "zh-CN",
+        "yue",
+        "wuu",
+        "dta",
+        "ug",
+        "za"
+    ],
+    "hk": [
+        "zh-HK",
+        "yue",
+        "zh",
+        "en"
+    ],
+    "mo": [
+        "zh",
+        "zh-MO",
+        "pt"
+    ],
+    "cx": [
+        "en",
+        "zh",
+        "ms-CC"
+    ],
+    "cc": [
+        "ms-CC",
+        "en"
+    ],
+    "co": [
+        "es-CO"
+    ],
+    "km": [
+        "ar",
+        "fr-KM"
+    ],
+    "cg": [
+        "fr-CG",
+        "kg",
+        "ln-CG"
+    ],
+    "ck": [
+        "en-CK",
+        "mi"
+    ],
+    "cr": [
+        "es-CR",
+        "en"
+    ],
+    "hr": [
+        "hr-HR",
+        "sr"
+    ],
+    "cu": [
+        "es-CU",
+        "pap"
+    ],
+    "cw": [
+        "nl",
+        "pap"
+    ],
+    "cy": [
+        "el-CY",
+        "tr-CY",
+        "en"
+    ],
+    "cz": [
+        "cs",
+        "sk"
+    ],
+    "ci": [
+        "fr-CI"
+    ],
+    "kp": [
+        "ko-KP"
+    ],
+    "cd": [
+        "fr-CD",
+        "ln",
+        "ktu",
+        "kg",
+        "sw",
+        "lua"
+    ],
+    "dk": [
+        "da-DK",
+        "en",
+        "fo",
+        "de-DK"
+    ],
+    "dj": [
+        "fr-DJ",
+        "ar",
+        "so-DJ",
+        "aa"
+    ],
+    "dm": [
+        "en-DM"
+    ],
+    "do": [
+        "es-DO"
+    ],
+    "ec": [
+        "es-EC"
+    ],
+    "eg": [
+        "ar-EG",
+        "en",
+        "fr"
+    ],
+    "sv": [
+        "es-SV"
+    ],
+    "gq": [
+        "es-GQ",
+        "fr"
+    ],
+    "er": [
+        "aa-ER",
+        "ar",
+        "tig",
+        "kun",
+        "ti-ER"
+    ],
+    "ee": [
+        "et",
+        "ru"
+    ],
+    "sz": [
+        "en-SZ",
+        "ss-SZ"
+    ],
+    "et": [
+        "am",
+        "en-ET",
+        "om-ET",
+        "ti-ET",
+        "so-ET",
+        "sid"
+    ],
+    "fk": [
+        "en-FK"
+    ],
+    "fo": [
+        "fo",
+        "da-FO"
+    ],
+    "fj": [
+        "en-FJ",
+        "fj"
+    ],
+    "fi": [
+        "fi-FI",
+        "sv-FI",
+        "smn"
+    ],
+    "fr": [
+        "fr-FR",
+        "frp",
+        "br",
+        "co",
+        "ca",
+        "eu",
+        "oc"
+    ],
+    "gf": [
+        "fr-GF"
+    ],
+    "pf": [
+        "fr-PF",
+        "ty"
+    ],
+    "tf": [
+        "fr"
+    ],
+    "ga": [
+        "fr-GA"
+    ],
+    "gm": [
+        "en-GM",
+        "mnk",
+        "wof",
+        "wo",
+        "ff"
+    ],
+    "ge": [
+        "ka",
+        "ru",
+        "hy",
+        "az"
+    ],
+    "de": [
+        "de"
+    ],
+    "gh": [
+        "en-GH",
+        "ak",
+        "ee",
+        "tw"
+    ],
+    "gi": [
+        "en-GI",
+        "es",
+        "it",
+        "pt"
+    ],
+    "gr": [
+        "el-GR",
+        "en",
+        "fr"
+    ],
+    "gl": [
+        "kl",
+        "da-GL",
+        "en"
+    ],
+    "gd": [
+        "en-GD"
+    ],
+    "gp": [
+        "fr"
+    ],
+    "gu": [
+        "en-GU",
+        "ch-GU"
+    ],
+    "gt": [
+        "es-GT"
+    ],
+    "gg": [
+        "en",
+        "nrf"
+    ],
+    "gn": [
+        "fr-GN"
+    ],
+    "gw": [
+        "pt-GW",
+        "pov"
+    ],
+    "gy": [
+        "en-GY"
+    ],
+    "ht": [
+        "ht",
+        "fr-HT"
+    ],
+    "va": [
+        "la",
+        "it",
+        "fr"
+    ],
+    "hn": [
+        "es-HN",
+        "cab",
+        "miq"
+    ],
+    "hu": [
+        "hu-HU"
+    ],
+    "is": [
+        "is",
+        "en",
+        "de",
+        "da",
+        "sv",
+        "no"
+    ],
+    "in": [
+        "en-IN",
+        "hi",
+        "bn",
+        "te",
+        "mr",
+        "ta",
+        "ur",
+        "gu",
+        "kn",
+        "ml",
+        "or",
+        "pa",
+        "as",
+        "bh",
+        "sat",
+        "ks",
+        "ne",
+        "sd",
+        "kok",
+        "doi",
+        "mni",
+        "sit",
+        "sa",
+        "fr",
+        "lus",
+        "inc"
+    ],
+    "id": [
+        "id",
+        "en",
+        "nl",
+        "jv"
+    ],
+    "ir": [
+        "fa-IR",
+        "ku"
+    ],
+    "iq": [
+        "ar-IQ",
+        "ku",
+        "hy"
+    ],
+    "ie": [
+        "en-IE",
+        "ga-IE"
+    ],
+    "im": [
+        "en",
+        "gv"
+    ],
+    "il": [
+        "he",
+        "ar-IL",
+        "en-IL",
+        ""
+    ],
+    "it": [
+        "it-IT",
+        "de-IT",
+        "fr-IT",
+        "sc",
+        "ca",
+        "co",
+        "sl"
+    ],
+    "jm": [
+        "en-JM"
+    ],
+    "jp": [
+        "ja"
+    ],
+    "je": [
+        "en",
+        "fr",
+        "nrf"
+    ],
+    "jo": [
+        "ar-JO",
+        "en"
+    ],
+    "kz": [
+        "kk",
+        "ru"
+    ],
+    "ke": [
+        "en-KE",
+        "sw-KE"
+    ],
+    "ki": [
+        "en-KI",
+        "gil"
+    ],
+    "kw": [
+        "ar-KW",
+        "en"
+    ],
+    "kg": [
+        "ky",
+        "uz",
+        "ru"
+    ],
+    "la": [
+        "lo",
+        "fr",
+        "en"
+    ],
+    "lv": [
+        "lv",
+        "ru",
+        "lt"
+    ],
+    "lb": [
+        "ar-LB",
+        "fr-LB",
+        "en",
+        "hy"
+    ],
+    "ls": [
+        "en-LS",
+        "st",
+        "zu",
+        "xh"
+    ],
+    "lr": [
+        "en-LR"
+    ],
+    "ly": [
+        "ar-LY",
+        "it",
+        "en"
+    ],
+    "li": [
+        "de-LI"
+    ],
+    "lt": [
+        "lt",
+        "ru",
+        "pl"
+    ],
+    "lu": [
+        "lb",
+        "de-LU",
+        "fr-LU"
+    ],
+    "mg": [
+        "fr-MG",
+        "mg"
+    ],
+    "mw": [
+        "ny",
+        "yao",
+        "tum",
+        "swk"
+    ],
+    "my": [
+        "ms-MY",
+        "en",
+        "zh",
+        "ta",
+        "te",
+        "ml",
+        "pa",
+        "th"
+    ],
+    "mv": [
+        "dv",
+        "en"
+    ],
+    "ml": [
+        "fr-ML",
+        "bm"
+    ],
+    "mt": [
+        "mt",
+        "en-MT"
+    ],
+    "mh": [
+        "mh",
+        "en-MH"
+    ],
+    "mq": [
+        "fr-MQ"
+    ],
+    "mr": [
+        "ar-MR",
+        "fuc",
+        "snk",
+        "fr",
+        "mey",
+        "wo"
+    ],
+    "mu": [
+        "en-MU",
+        "bho",
+        "fr"
+    ],
+    "yt": [
+        "fr-YT"
+    ],
+    "mx": [
+        "es-MX"
+    ],
+    "fm": [
+        "en-FM",
+        "chk",
+        "pon",
+        "yap",
+        "kos",
+        "uli",
+        "woe",
+        "nkr",
+        "kpg"
+    ],
+    "mc": [
+        "fr-MC",
+        "en",
+        "it"
+    ],
+    "mn": [
+        "mn",
+        "ru"
+    ],
+    "me": [
+        "sr",
+        "hu",
+        "bs",
+        "sq",
+        "hr",
+        "rom"
+    ],
+    "ms": [
+        "en-MS"
+    ],
+    "ma": [
+        "ar-MA",
+        "ber",
+        "fr"
+    ],
+    "mz": [
+        "pt-MZ",
+        "vmw"
+    ],
+    "mm": [
+        "my"
+    ],
+    "na": [
+        "en-NA",
+        "af",
+        "de",
+        "hz",
+        "naq"
+    ],
+    "nr": [
+        "na",
+        "en-NR"
+    ],
+    "np": [
+        "ne",
+        "en"
+    ],
+    "nl": [
+        "nl-NL",
+        "fy-NL"
+    ],
+    "nc": [
+        "fr-NC"
+    ],
+    "nz": [
+        "en-NZ",
+        "mi"
+    ],
+    "ni": [
+        "es-NI",
+        "en"
+    ],
+    "ne": [
+        "fr-NE",
+        "ha",
+        "kr",
+        "dje"
+    ],
+    "ng": [
+        "en-NG",
+        "ha",
+        "yo",
+        "ig",
+        "ff"
+    ],
+    "nu": [
+        "niu",
+        "en-NU"
+    ],
+    "nf": [
+        "en-NF"
+    ],
+    "mp": [
+        "fil",
+        "tl",
+        "zh",
+        "ch-MP",
+        "en-MP"
+    ],
+    "no": [
+        "no",
+        "nb",
+        "nn",
+        "se",
+        "fi"
+    ],
+    "om": [
+        "ar-OM",
+        "en",
+        "bal",
+        "ur"
+    ],
+    "pk": [
+        "ur-PK",
+        "en-PK",
+        "pa",
+        "sd",
+        "ps",
+        "brh"
+    ],
+    "pw": [
+        "pau",
+        "sov",
+        "en-PW",
+        "tox",
+        "ja",
+        "fil",
+        "zh"
+    ],
+    "pa": [
+        "es-PA",
+        "en"
+    ],
+    "pg": [
+        "en-PG",
+        "ho",
+        "meu",
+        "tpi"
+    ],
+    "py": [
+        "es-PY",
+        "gn"
+    ],
+    "pe": [
+        "es-PE",
+        "qu",
+        "ay"
+    ],
+    "ph": [
+        "tl",
+        "en-PH",
+        "fil",
+        "ceb",
+        "tgl",
+        "ilo",
+        "hil",
+        "war",
+        "pam",
+        "bik",
+        "bcl",
+        "pag",
+        "mrw",
+        "tsg",
+        "mdh",
+        "cbk",
+        "krj",
+        "sgd",
+        "msb",
+        "akl",
+        "ibg",
+        "yka",
+        "mta",
+        "abx"
+    ],
+    "pn": [
+        "en-PN"
+    ],
+    "pl": [
+        "pl"
+    ],
+    "pt": [
+        "pt-PT",
+        "mwl"
+    ],
+    "pr": [
+        "en-PR",
+        "es-PR"
+    ],
+    "qa": [
+        "ar-QA",
+        "es"
+    ],
+    "kr": [
+        "ko-KR",
+        "en"
+    ],
+    "md": [
+        "ro",
+        "ru",
+        "gag",
+        "tr"
+    ],
+    "ro": [
+        "ro",
+        "hu",
+        "rom"
+    ],
+    "ru": [
+        "ru",
+        "tt",
+        "xal",
+        "cau",
+        "ady",
+        "kv",
+        "ce",
+        "tyv",
+        "cv",
+        "udm",
+        "tut",
+        "mns",
+        "bua",
+        "myv",
+        "mdf",
+        "chm",
+        "ba",
+        "inh",
+        "tut",
+        "kbd",
+        "krc",
+        "av",
+        "sah",
+        "nog"
+    ],
+    "rw": [
+        "rw",
+        "en-RW",
+        "fr-RW",
+        "sw"
+    ],
+    "re": [
+        "fr-RE"
+    ],
+    "sh": [
+        "en-SH"
+    ],
+    "kn": [
+        "en-KN"
+    ],
+    "lc": [
+        "en-LC"
+    ],
+    "pm": [
+        "fr-PM"
+    ],
+    "vc": [
+        "en-VC",
+        "fr"
+    ],
+    "ws": [
+        "sm",
+        "en-WS"
+    ],
+    "sm": [
+        "it-SM"
+    ],
+    "st": [
+        "pt-ST"
+    ],
+    "sa": [
+        "ar-SA"
+    ],
+    "sn": [
+        "fr-SN",
+        "wo",
+        "fuc",
+        "mnk"
+    ],
+    "rs": [
+        "sr",
+        "hu",
+        "bs",
+        "rom"
+    ],
+    "sc": [
+        "en-SC",
+        "fr-SC"
+    ],
+    "sl": [
+        "en-SL",
+        "men",
+        "tem"
+    ],
+    "sg": [
+        "cmn",
+        "en-SG",
+        "ms-SG",
+        "ta-SG",
+        "zh-SG"
+    ],
+    "sx": [
+        "nl",
+        "en"
+    ],
+    "sk": [
+        "sk",
+        "hu"
+    ],
+    "si": [
+        "sl",
+        "sh"
+    ],
+    "sb": [
+        "en-SB",
+        "tpi"
+    ],
+    "so": [
+        "so-SO",
+        "ar-SO",
+        "it",
+        "en-SO"
+    ],
+    "za": [
+        "zu",
+        "xh",
+        "af",
+        "nso",
+        "en-ZA",
+        "tn",
+        "st",
+        "ts",
+        "ss",
+        "ve",
+        "nr"
+    ],
+    "gs": [
+        "en"
+    ],
+    "es": [
+        "es-ES",
+        "ca",
+        "gl",
+        "eu",
+        "oc"
+    ],
+    "lk": [
+        "si",
+        "ta",
+        "en"
+    ],
+    "ps": [
+        "ar-PS"
+    ],
+    "sd": [
+        "ar-SD",
+        "en",
+        "fia"
+    ],
+    "sr": [
+        "nl-SR",
+        "en",
+        "srn",
+        "hns",
+        "jv"
+    ],
+    "sj": [
+        "no",
+        "ru"
+    ],
+    "se": [
+        "sv-SE",
+        "se",
+        "sma",
+        "fi-SE"
+    ],
+    "ch": [
+        "de-CH",
+        "fr-CH",
+        "it-CH",
+        "rm"
+    ],
+    "sy": [
+        "ar-SY",
+        "ku",
+        "hy",
+        "arc",
+        "fr",
+        "en"
+    ],
+    "tj": [
+        "tg",
+        "ru"
+    ],
+    "th": [
+        "th",
+        "en"
+    ],
+    "mk": [
+        "mk",
+        "sq",
+        "tr",
+        "rmm",
+        "sr"
+    ],
+    "tl": [
+        "tet",
+        "pt-TL",
+        "id",
+        "en"
+    ],
+    "tg": [
+        "fr-TG",
+        "ee",
+        "hna",
+        "kbp",
+        "dag",
+        "ha"
+    ],
+    "tk": [
+        "tkl",
+        "en-TK"
+    ],
+    "to": [
+        "to",
+        "en-TO"
+    ],
+    "tt": [
+        "en-TT",
+        "hns",
+        "fr",
+        "es",
+        "zh"
+    ],
+    "tn": [
+        "ar-TN",
+        "fr"
+    ],
+    "tr": [
+        "tr-TR",
+        "ku",
+        "diq",
+        "az",
+        "av"
+    ],
+    "tm": [
+        "tk",
+        "ru",
+        "uz"
+    ],
+    "tc": [
+        "en-TC"
+    ],
+    "tv": [
+        "tvl",
+        "en",
+        "sm",
+        "gil"
+    ],
+    "ug": [
+        "en-UG",
+        "lg",
+        "sw",
+        "ar"
+    ],
+    "ua": [
+        "uk",
+        "ru-UA",
+        "rom",
+        "pl",
+        "hu"
+    ],
+    "ae": [
+        "ar-AE",
+        "fa",
+        "en",
+        "hi",
+        "ur"
+    ],
+    "uk": [
+        "en-GB",
+        "cy-GB",
+        "gd"
+    ],
+    "tz": [
+        "sw-TZ",
+        "en",
+        "ar"
+    ],
+    "um": [
+        "en-UM"
+    ],
+    "vi": [
+        "en-VI"
+    ],
+    "us": [
+        "en-US",
+        "es-US",
+        "haw",
+        "fr"
+    ],
+    "uy": [
+        "es-UY"
+    ],
+    "uz": [
+        "uz",
+        "ru",
+        "tg"
+    ],
+    "vu": [
+        "bi",
+        "en-VU",
+        "fr-VU"
+    ],
+    "ve": [
+        "es-VE"
+    ],
+    "vn": [
+        "vi",
+        "en",
+        "fr",
+        "zh",
+        "km"
+    ],
+    "wf": [
+        "wls",
+        "fud",
+        "fr-WF"
+    ],
+    "eh": [
+        "ar",
+        "mey"
+    ],
+    "ye": [
+        "ar-YE"
+    ],
+    "zm": [
+        "en-ZM",
+        "bem",
+        "loz",
+        "lun",
+        "lue",
+        "ny",
+        "toi"
+    ],
+    "zw": [
+        "en-ZW",
+        "sn",
+        "nr",
+        "nd"
+    ],
+    "ax": [
+        "sv-AX"
+    ]
+}
