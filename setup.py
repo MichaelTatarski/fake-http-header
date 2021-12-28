@@ -14,7 +14,7 @@ setup(
     description="Generates random request fields for a http header",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/fake-http-header",
+    url="https://github.com/MichaelTatarski/fake-http-header",
     author="Michael Tatarski",
     author_email="michaeltatarski@yahoo.de",
     license="MIT",
