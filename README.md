@@ -1,6 +1,6 @@
 # Fake http header
 
-**fake-http-header** is a python package that you can use to generate random request fields for a http header. The generated header fields look like they might come from a real internet browser. It is accomplished by mapping browsers to default values and emulating real user behaviour. You can utilize this package, for instance, to write crawlers or for testing web applications.
+**fake-http-header** is a python package that you can use to generate random request fields for a http header. The generated header fields look like they might come from a real internet browser. It is accomplished by mapping browsers to default values and emulating real user behaviour. You can utilize this package, for instance, to write crawlers or testing web applications.
 
 ## Installation
 
