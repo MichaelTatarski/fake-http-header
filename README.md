@@ -47,7 +47,7 @@ When working with other python libraries like __requests__, it is necessary to t
 import requests
 
 my_url = https://github.com/
-fake_header_dict = fake_header.as_header_dict
+fake_header_dict = fake_header.as_header_dict()
 
 r = requests.get(my_url, headers=fake_header_dict)
 ``` 
