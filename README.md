@@ -58,3 +58,8 @@ r = requests.get(my_url, headers=fake_header_dict)
 ## Contributing
 
 Feel free to create pull requests and discuss some new to ideas to make the package more powerful.
+
+## Some nice stats about the project
+
+[![Downloads](https://pepy.tech/badge/fake-http-header/month)](https://pepy.tech/project/fake-http-header)
+[![Downloads](https://pepy.tech/badge/fake-http-header/week)](https://pepy.tech/project/fake-http-header)
