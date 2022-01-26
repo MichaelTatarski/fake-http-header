@@ -53,7 +53,7 @@ r = requests.get(my_url, headers=fake_header_dict)
 ``` 
 
 ## Future ideas
- - Add weights to certain header fiels (e.g. __Accept: text/html, application/xhtml+xml, application/xml;**q=0.9**__)
+ - Add weights to certain header fields (e.g. __Accept: text/html, application/xhtml+xml, application/xml;**q=0.9**__)
 
 ## Contributing
 
