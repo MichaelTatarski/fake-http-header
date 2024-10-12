@@ -13,3 +13,9 @@ Version 0.2
 - Improved the documentation
 - Fixed missing "eu" in the list of supported languages
 - Added tests for the fake_http_header module
+
+Version 0.2.1
+=============
+
+- Added 'referer' argument to the fake_http_header initializer
+- Improved the documentation
