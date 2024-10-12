@@ -1,3 +1,4 @@
+from misc.version import VERSION
 from .fake_http_header import FakeHttpHeader
 
-__version__ = "0.1.1"
+__version__ = VERSION
