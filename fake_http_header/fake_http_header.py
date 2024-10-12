@@ -31,7 +31,7 @@ class FakeHttpHeader:
 
         Args:
             browser (str, optional): Specifies of which browser type the user agent
-            should be (for instance chrome or firefox). Defaults to random.choice(BROWSERS).
+            should be (for instance 'chrome' or 'firefox'). Defaults to random.choice(BROWSERS).
             domain_name (str, optional): Specifies, which domain name the referer site should have.
             This arguments has also impact on the generated accept language field. Defaults to
             random.choice(COUNTRY_TOP_LEVEL_DOMAINS).
