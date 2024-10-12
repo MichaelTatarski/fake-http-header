@@ -13,7 +13,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="fake-http-header",
     version=VERSION,
-    description="Generates random request fields for a http header",
+    description="Generates random request fields for a http request header",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/MichaelTatarski/fake-http-header",
