@@ -16,6 +16,16 @@ from fake_http_header.util import (
 
 @dataclass
 class FakeHttpHeader:
+    """
+    A class to generate fake HTTP headers.
+
+    Attributes:
+        user_agent (str): The user agent string representing the browser.
+        accept_language (str): The accepted languages for the HTTP header.
+        accept_encoding (str): The accepted encodings for the HTTP header.
+        accept (str): The accepted content types for the HTTP header.
+        referer (str): The referer URL for the HTTP header.
+    """
     user_agent: str
     accept_language: str
     accept_encoding: str
