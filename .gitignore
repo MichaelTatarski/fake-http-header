@@ -21,6 +21,7 @@ __pycache__/*
 .settings
 .idea
 .vscode
+.vs
 tags
 
 # Package files
