@@ -25,6 +25,12 @@ class TestFakeHttpHeader(unittest.TestCase):
         self.assertEqual(header_dict['Accept-encoding'], header.accept_encoding)
         self.assertEqual(header_dict['Accept'], header.accept)
         self.assertEqual(header_dict['Referer'], header.referer)
+    
+    def test_custom_referer(self):
+        custom_referer = "http://example.com"
+        header = FakeHttpHeader(browser='safari', domain_code='uk', referer=custom_referer)
+        self.assertIn('Safari', header.user_agent)
+        self.assertEqual(header.referer, custom_referer)
 
 if __name__ == '__main__':
     unittest.main()
