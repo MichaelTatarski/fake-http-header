@@ -25,22 +25,22 @@ class FakeHttpHeader:
     def __init__(
         self,
         browser: str = random.choice(BROWSERS),
-        domain_name: str = random.choice(COUNTRY_TOP_LEVEL_DOMAINS),
+        domain_code: str = random.choice(COUNTRY_TOP_LEVEL_DOMAINS),
     ):
         """Initializer for a FakeHttpHeader object
 
         Args:
             browser (str, optional): Specifies of which browser type the user agent
             should be (for instance 'chrome' or 'firefox'). Defaults to random.choice(BROWSERS).
-            domain_name (str, optional): Specifies, which domain name the referer site should have.
+            domain_code (str, optional): Specifies, which domain code the referer site should have.
             This arguments has also impact on the generated accept language field. Defaults to
             random.choice(COUNTRY_TOP_LEVEL_DOMAINS).
         """
         self.user_agent = random.choice(BROWSER_TO_USER_AGENT[browser])
-        self.accept_language = _generate_accept_language(domain_name)
+        self.accept_language = _generate_accept_language(domain_code)
         self.accept_encoding = _generate_accept_encoding()
         self.accept = BROWSER_TO_ACCEPT_VALUES[browser]
-        self.referer = _generate_referer_site(domain_name)
+        self.referer = _generate_referer_site(domain_code)
 
     def as_header_dict(self) -> dict:
         """transform a FakeHttpHeader object into a dict representation that is compatible to the requests library

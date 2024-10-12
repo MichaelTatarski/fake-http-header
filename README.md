@@ -33,7 +33,7 @@ It is also possible to specify of which top level domain the **referer site** sh
 
 **Example:**
 ```python
-fake_header = FakeHttpHeader(domain_name = 'de')
+fake_header = FakeHttpHeader(domain_code = 'de')
 print(fake_header)
 ```
 __Output:__
