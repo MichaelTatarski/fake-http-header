@@ -1,6 +1,6 @@
 import unittest
 
-from fake_http_header import FakeHttpHeader
+from fake_http_header.fake_http_header import FakeHttpHeader
 
 
 class TestFakeHttpHeader(unittest.TestCase):
