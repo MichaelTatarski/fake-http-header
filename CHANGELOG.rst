@@ -19,3 +19,8 @@ Version 0.2.1
 
 - Added 'referer' argument to the fake_http_header initializer
 - Improved the documentation
+
+Version 0.3
+===========
+
+- Added weights to the accepted languages
