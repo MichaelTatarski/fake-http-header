@@ -29,7 +29,7 @@ FakeHttpHeader(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 ```
 As you can see, the generated header contains an  **Accept-Language** field, which states that the client prefers british english __(accept_language='en-GB')__. To make this header look more plausible, the referrer site is thereby generated from a pool of **.uk** domains.
 
-It is also possible to specify of which top level domain the **referer site** should be. In that case, a fitting **Accept-Language** field will be generated. 
+It is also possible to specify of which top level domain the **referer site** should be. In that case, a fitting **Accept-Language** field will be generated.
 
 **Example:**
 ```python
@@ -50,7 +50,7 @@ my_url = https://github.com/
 fake_header_dict = fake_header.as_header_dict()
 
 r = requests.get(my_url, headers=fake_header_dict)
-``` 
+```
 
 ## Future ideas
  - Add weights to certain header fields (e.g. __Accept: text/html, application/xhtml+xml, application/xml;**q=0.9**__)

@@ -1,13 +1,14 @@
+import random
+
 from fake_http_header.constants import (
-    DOMAIN_TO_SEARCH_ENGINES,
-    GENERIC_TOP_LEVEL_DOMAINS,
-    ENCODING_VALUES,
-    MINIMAL_ENCODING_VALUE_LENGTH,
-    MAXIMUM_ENCODING_VALUE_LENGTH,
     COUNTRY_TOP_LEVEL_DOMAINS,
     DOMAIN_TO_LANGUAGES,
+    DOMAIN_TO_SEARCH_ENGINES,
+    ENCODING_VALUES,
+    GENERIC_TOP_LEVEL_DOMAINS,
+    MAXIMUM_ENCODING_VALUE_LENGTH,
+    MINIMAL_ENCODING_VALUE_LENGTH,
 )
-import random
 
 
 def _generate_referer_site(domain_name: str) -> str:
@@ -24,9 +25,7 @@ def _generate_accept_encoding() -> str:
         k=random.randint(MINIMAL_ENCODING_VALUE_LENGTH, MAXIMUM_ENCODING_VALUE_LENGTH),
     )
     encoding_values_array_unique = set(encoding_values_array)
-    return ",".join(
-        [str(encoding_value) for encoding_value in encoding_values_array_unique]
-    )
+    return ",".join([str(encoding_value) for encoding_value in encoding_values_array_unique])
 
 
 def _generate_accept_language(domain_name) -> str:
