@@ -29,3 +29,8 @@ Version 0.3.1
 ===========
 
 - fix ModuleNotFoundError
+
+Version 0.3.2
+===========
+
+- Enable import of fakeHttpHeader through fake_http_header
