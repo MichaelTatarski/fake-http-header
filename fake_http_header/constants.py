@@ -1,12 +1,12 @@
 from importlib.resources import read_text
 
-from fake_http_header.data_import import load_dict
+from data_import import load_dict
 
-domain_to_search_engine_binary = read_text("fake_http_header.data", "top-level-domain-to-search-engines.json")
-domain_to_languages_binary = read_text("fake_http_header.data", "top-level-domain-to-languages.json")
-browser_to_user_agent = read_text("fake_http_header.data", "browser-to-user-agent.json")
-encoding_values_dict_binary = read_text("fake_http_header.data", "encoding-values.json")
-browser_to_accept_value_binary = read_text("fake_http_header.data", "browser-to-accept-values.json")
+domain_to_search_engine_binary = read_text("data", "top-level-domain-to-search-engines.json")
+domain_to_languages_binary = read_text("data", "top-level-domain-to-languages.json")
+browser_to_user_agent = read_text("data", "browser-to-user-agent.json")
+encoding_values_dict_binary = read_text("data", "encoding-values.json")
+browser_to_accept_value_binary = read_text("data", "browser-to-accept-values.json")
 
 MINIMAL_GENERIC_TOP_LEVEL_DOMAIN_LENGTH = 3
 MINIMAL_ENCODING_VALUE_LENGTH = 1
