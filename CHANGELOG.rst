@@ -24,3 +24,8 @@ Version 0.3
 ===========
 
 - Added weights to the accepted languages
+
+Version 0.3.1
+===========
+
+- fix ModuleNotFoundError
