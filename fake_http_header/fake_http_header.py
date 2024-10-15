@@ -1,13 +1,13 @@
 import random
 from dataclasses import dataclass
 
-from constants import (
+from fake_http_header.constants import (
     BROWSER_TO_ACCEPT_VALUES,
     BROWSER_TO_USER_AGENT,
     BROWSERS,
     COUNTRY_TOP_LEVEL_DOMAINS,
 )
-from util import (
+from fake_http_header.util import (
     _generate_accept_encoding,
     _generate_accept_language,
     _generate_referer_site,

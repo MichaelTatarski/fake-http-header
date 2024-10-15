@@ -1,6 +1,6 @@
 import random
 
-from constants import (
+from fake_http_header.constants import (
     COUNTRY_TOP_LEVEL_DOMAINS,
     DOMAIN_TO_LANGUAGES,
     DOMAIN_TO_SEARCH_ENGINES,
