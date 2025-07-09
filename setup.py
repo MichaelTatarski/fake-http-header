@@ -25,4 +25,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     package_data={"": ["data/*.json"]},
+    install_requires=[
+        'importlib_resources; python_version<"3.9"',
+    ],
 )
